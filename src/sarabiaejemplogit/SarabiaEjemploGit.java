@@ -17,6 +17,7 @@ public class SarabiaEjemploGit {
      */
     public static void main(String[] args) {
         System.out.println("Pablo Sarabia, version 2");
+        System.out.println("Ignacio Gomez, version 3");
     }
 
 }
